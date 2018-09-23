@@ -1,0 +1,6 @@
+[package]
+name = "edon"
+version = "0.1.0"
+authors = ["Jeff Dickey <@jdxcode>"]
+
+[dependencies]
